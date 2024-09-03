@@ -1,1 +1,1 @@
-# ZubairShaban-Federated-Learning-for-Wireless-Applications-A-Prototype
+# Federated-Learning-for-Wireless-Applications-A-Prototype
