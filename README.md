@@ -1,7 +1,7 @@
 # Federated-Learning-for-Wireless-Applications-A-Prototype
-Repoitor are composed of 3 python files:
+Repository are composed of 3 python files:
 1) client1.py
-   a. Code conntains client1 model training and parameter generation(Weights and Bias) on a subset of MNIST dataset. Passes this information to the USRP's.
+   a. Code contains client1 model training and parameter generation(Weights and Bias) on a subset of MNIST dataset. Passes this information to the USRP's.
    b. Read averaged parameters(client1 and client2) received using USRP and updates the local model.
    c. Lost data packets will be replaced by 0's.
 2) client2.py
